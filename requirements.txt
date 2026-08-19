@@ -1,0 +1,29 @@
+# Core LangChain
+langchain
+langchain-core
+langchain-community
+
+# Mistral
+langchain-mistralai
+
+# RAG / Vector Database
+chromadb
+sentence-transformers
+
+# PDF processing
+pypdf
+
+# Environment variables
+python-dotenv
+
+# Tavily web search
+tavily-python
+
+# Weather API
+requests
+
+# Streamlit UI
+streamlit
+
+# Optional - useful for LangChain integrations
+langchain-text-splitters
